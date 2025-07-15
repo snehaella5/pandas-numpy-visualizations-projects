@@ -10,12 +10,8 @@ Each project focuses on a real-world dataset and applies various **data cleaning
 - Explored genres, release trends, country-wise production, and ratings
 - Visualized using Seaborn & Matplotlib
 
-###  Project 2: Spotify Tracks Cleaning
-- Cleaned messy Spotify dataset using Pandas
-- Performed feature engineering and filtering
-- Created pre-processed data for analysis and modeling
 
-###  Project 3: World Population Analysis
+###  Project 2: World Population Analysis
 - Loaded and cleaned UN population data (2014–2024)
 - Analyzed trends by country, continent, and year
 - Visualized population growth using Plotly
